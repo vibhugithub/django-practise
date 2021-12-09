@@ -1,4 +1,4 @@
-This project is developed in linux environment with python 3.8
+This project is developed with python 3.8
 
 Follow the steps to setup the project.
 
