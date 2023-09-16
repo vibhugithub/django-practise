@@ -2,7 +2,7 @@
 
 Follow the steps to setup the project.
 1.) Create new folder
-2.) clon the project  
+2.) clone the project  
 3.) python -m venv env 
 4.) ./env/Scripts/activate
 **Make sure you are in project directory **
